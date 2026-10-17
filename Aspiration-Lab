@@ -1,0 +1,12 @@
+This is a lab you can practice, os command injection vuln via web app. 
+The skills you will need is that password guess (generateing with your own tool),
+Hash cracking, pivoting to have privilege escalation and miss-configuration.
+
+This lab is built real enterprise linux system (rocky linux). don't give up
+when reverse shell doesn't come back, try harder with different method. (Be aware of SELINUX).
+
+You can download the file i uploaded on google drive.
+
+Download link
+
+https://drive.google.com/file/d/1wNh4rvE9Q73EtEa_kpDBJKRvwvuafDJ8/view?usp=sharing
